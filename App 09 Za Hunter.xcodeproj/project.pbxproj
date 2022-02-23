@@ -11,7 +11,7 @@
 		3F8BA0B827C5459F0015C226 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8BA0B727C5459F0015C226 /* ContentView.swift */; };
 		3F8BA0BA27C545A70015C226 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F8BA0B927C545A70015C226 /* Assets.xcassets */; };
 		3F8BA0BD27C545A70015C226 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F8BA0BC27C545A70015C226 /* Preview Assets.xcassets */; };
-		3F8BA0C527C5497C0015C226 /* LocationManager.Swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8BA0C427C5497C0015C226 /* LocationManager.Swift */; };
+		3F8BA0C527C5497C0015C226 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8BA0C427C5497C0015C226 /* LocationManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,7 +21,7 @@
 		3F8BA0B927C545A70015C226 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F8BA0BC27C545A70015C226 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3F8BA0BE27C545A70015C226 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3F8BA0C427C5497C0015C226 /* LocationManager.Swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.Swift; sourceTree = "<group>"; };
+		3F8BA0C427C5497C0015C226 /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +56,7 @@
 			children = (
 				3F8BA0B527C5459F0015C226 /* App_09_Za_HunterApp.swift */,
 				3F8BA0B727C5459F0015C226 /* ContentView.swift */,
-				3F8BA0C427C5497C0015C226 /* LocationManager.Swift */,
+				3F8BA0C427C5497C0015C226 /* LocationManager.swift */,
 				3F8BA0B927C545A70015C226 /* Assets.xcassets */,
 				3F8BA0BE27C545A70015C226 /* Info.plist */,
 				3F8BA0BB27C545A70015C226 /* Preview Content */,
@@ -141,7 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3F8BA0C527C5497C0015C226 /* LocationManager.Swift in Sources */,
+				3F8BA0C527C5497C0015C226 /* LocationManager.swift in Sources */,
 				3F8BA0B827C5459F0015C226 /* ContentView.swift in Sources */,
 				3F8BA0B627C5459F0015C226 /* App_09_Za_HunterApp.swift in Sources */,
 			);
